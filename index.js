@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 Ascolta Shadow Leaks", "🎮 Gioca a Shadow Leaks"];
+const statusMessages = ["👑 Io sono Shadow Leaks"," Bot Fatto da Danyqua👍","Leak sempre aggiornati⚡","Nuovi contenuti in arrivo🔥", "🎮 Gioca a Shadow Leaks"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
